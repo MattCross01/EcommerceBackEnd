@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^9.0.0",
+    "mysql2": "^2.2.5",
     "sequelize": "^6.6.2"
   },
   "devDependencies": {},
