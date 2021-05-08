@@ -31,7 +31,7 @@ POST, PUT, and DELETE routes for categories being tested.
  [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/MattCross01) 
   [![LinkedIn](https://img.shields.io/badge/My%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/matthew-cross-604a98203/)
 
-  Feel free to reach me at cemorin21@gmail.com with any question regarding this project!
+  Feel free to reach me at mountaindew2141@outlook.com with any question regarding this project!
 
 
 
